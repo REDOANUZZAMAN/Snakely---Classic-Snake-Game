@@ -314,7 +314,7 @@ Give a ⭐️ if you enjoyed playing this game!
 
 ## 🎮 Play Online
 
-[Live Demo](#) - Deploy and add your link here
+[Live Demo](https://redoanuzzaman.github.io/Snakely---Classic-Snake-Game/) - Deploy and add your link here
 
 ---
 
