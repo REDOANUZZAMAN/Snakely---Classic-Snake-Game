@@ -1,4 +1,4 @@
-# 🐍 Snakely - Classic Snake Game
+# 🐍 Snakely - Classic Snake Gameee
 
 A modern, minimalist implementation of the classic Snake game built with pure vanilla JavaScript. Features smooth animations, responsive design, and a beautiful glowing aesthetic with no dependencies required.
 
